@@ -1,831 +1,791 @@
-PEOPLE_POSITIVE_NEW_CASES_COUNT
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-1
-0
-0
-1
-0
-0
-5
-0
-1
-8
-2
-7
-7
-2
-8
-24
-38
-40
-40
-85
-33
-95
-165
-77
-145
-188
-194
-137
-224
-64
-267
-235
-309
-183
-285
-350
-203
-228
-255
-404
-210
-268
-204
-131
-340
-396
-281
-353
-271
-187
-269
-388
-444
-496
-282
-205
-533
-379
-560
-415
-592
-154
-203
-412
-500
-648
-448
-508
-396
-286
-333
-448
-743
-597
-819
-528
-584
-641
-459
-713
-727
-1070
-500
-766
-191
-599
-829
-1119
-1026
-925
-682
-684
-961
-1263
-1141
-1392
-854
-918
-812
-912
-1430
-1732
-1444
-1288
-1058
-848
-1037
-1284
-1588
-1626
-1214
-986
-986
-1437
-1277
-1717
-1452
-1469
-1514
-1372
-1751
-1697
-1939
-1284
-1361
-1837
-1255
-1473
-1903
-2173
-2259
-1835
-1822
-2114
-1806
-2084
-1976
-2434
-1774
-1335
-1871
-2091
-1912
-2156
-2076
-1520
-1810
-1688
-1727
-2364
-1979
-1645
-1266
-1467
-1488
-1218
-2024
-1555
-1882
-1335
-756
-1068
-1339
-1593
-1538
-1412
-1155
-831
-1199
-1350
-1931
-1922
-1622
-1424
-1537
-1258
-1523
-2007
-1439
-2379
-977
-1479
-1977
-1174
-1651
-2057
-1276
-1017
-1071
-938
-911
-1274
-1599
-1371
-1020
-1122
-1039
-1314
-1507
-1365
-1079
-1227
-1115
-1165
-1173
-1805
-5422
-1583
-1166
-1090
-887
-1620
-2214
-1817
-2014
-592
-2404
-1393
-1911
-2389
-2018
-2203
-1605
-1495
-1783
-1970
-2526
-2694
-1988
-2096
-1435
-1607
-1852
-2408
-2116
-2905
-1689
-2031
-2175
-2232
-2853
-2812
-2574
-1901
-1771
-2180
-2623
-2930
-2914
-2439
-1868
-1674
-2984
-2636
-3206
-2567
-3205
-2703
-2908
-3223
-3721
-3400
-4363
-3053
-3909
-2689
-3894
-4536
-46
-7516
-2990
-3470
-2844
-3647
-3910
-5845
-5795
-4595
-6260
-4776
-4724
-7620
-5811
-7040
-5334
-6330
-5066
-5582
-6325
-5111
-9456
-5496
-6184
-4638
-6729
-6627
-136
-0
-16719
-2725
-4541
-4449
-8681
-5950
-2906
-15966
-5318
-6758
-6291
-6385
-10614
-9879
-9528
-8788
-7842
-5336
-5322
-8812
-8892
-8458
-6606
--263
-8465
-8787
-5900
-9288
-6352
-5655
-5199
-4491
-4898
-6760
-7019
-626
-10210
-5200
-3020
-10693
-6504
-4941
-4102
-4368
-2893
-4056
-3619
-4601
-4057
-3539
-2791
-3150
-2293
-2947
-3991
-3203
-3189
-2080
-2689
-1568
-3308
-3434
-2809
-2324
-0
-3353
-1776
-2069
-2639
-2043
-1762
-0
-2797
-1246
-1815
-2083
-1965
-813
-0
-3114
-1795
-1687
-2329
-1773
-1809
-0
-2908
-1243
-2064
-2055
-2105
-0
-0
-5256
-1489
-1941
-2018
-0
-0
-91
-6123
-994
-1389
-2024
-2276
-0
-99
-5693
-1598
-2348
-2332
-2308
-0
-0
-5621
-1290
-1792
-2339
-1994
-185
-0
-5008
-1634
-1785
-1945
-2257
-74
-0
-4179
-1207
-1407
-1870
-1861
-161
-0
-3289
-1017
-1480
-1353
-1368
-249
-0
-2406
-691
-976
-1116
-1082
-126
-0
-2147
-684
-802
-904
-769
-8
-68
-0
-1900
-410
-496
-667
-0
-61
-1231
-357
-552
-469
-421
-37
-0
-1136
-326
-350
-392
-192
-29
-0
-724
-337
-461
-442
-396
-3
-8
-850
-236
-306
-285
-396
-54
-0
-0
-1325
-570
-642
-545
-57
-0
-1727
-657
-968
-1030
-1030
-116
-0
-2898
-808
-1473
-1768
-1655
-0
-0
-5486
-1977
-2565
-3327
-3188
-59
-0
-7916
-2939
-3362
-4282
-4555
-98
-0
-14709
-4227
-4975
-5730
-6693
-0
-0
-13855
-4610
-5496
-6902
-6651
-107
-0
-15819
-6229
-5372
-9257
-8384
-0
-0
-18467
-5532
-6997
-7468
-9027
-346
-0
-0
-24854
-5061
-6784
-5454
-0
-0
-23742
-4997
-7131
-6181
-9047
-0
-0
-15999
-4463
-6297
-6125
-5719
-0
-0
-13452
-3407
-4580
-4943
-4520
-76
-0
-11109
-2647
-3582
-3862
-3911
-0
-0
-9627
-2304
-3302
-3574
-2959
-0
-0
-6960
-1427
-2663
-2911
-2675
-33
-0
-5662
-1246
-2277
-2577
-2201
-34
-0
-4889
-1135
-1545
-2057
-1834
-2
-0
-4165
-2221
-2192
-165
-4063
-0
-0
-4286
-1787
-2257
-2467
-2365
-0
-0
-5428
-1368
-1881
-422
-0
-0
-0
-8154
-2033
-961
-3764
-3726
-0
-0
-8514
-2178
-3277
-4157
-3656
-0
-0
-8779
-2048
-3749
-4170
-3985
-94
-0
-10236
-2900
-5196
-0
-0
-0
-0
-0
-32389
-9101
-17588
-18652
-0
-0
-47202
-10763
-19919
-23622
-25587
-305
-0
-73688
-17625
-24369
-36765
-34347
-1391
-0
-0
-121315
-19471
-25753
-36579
-0
-0
-82054
-18482
-20205
-27526
-21115
-0
-0
-47719
-9313
-12443
-15049
-12293
-0
-0
-24174
-4522
-10831
-8859
-7466
-0
-0
-15003
-2875
-6094
-5677
-4955
-0
-0
-9693
-2400
-3560
-3744
-4893
-0
-0
-6186
-1182
-2202
-2416
-2693
-0
-0
-4143
-993
-1766
-1739
-1915
-0
-0
-3112
-614
-1526
-1236
-1861
-0
-0
-2441
-798
-1533
-1471
-1239
-0
-0
-2283
-609
-857
-1107
-1110
-0
-0
-2052
-526
-807
-0
-175
-0
-0
-129
-113
-4693
-0
-0
-0
-0
-480
-44
-8054
-167
-139
-0
-0
-188
-229
-10992
-0
-363
+Date,PROVINCE_STATE_NAME,PEOPLE_POSITIVE_NEW_CASES_COUNT
+2020-03-01,North Carolina,0
+2020-03-02,North Carolina,0
+2020-03-03,North Carolina,1
+2020-03-04,North Carolina,0
+2020-03-05,North Carolina,0
+2020-03-06,North Carolina,1
+2020-03-07,North Carolina,0
+2020-03-08,North Carolina,0
+2020-03-09,North Carolina,5
+2020-03-10,North Carolina,0
+2020-03-11,North Carolina,1
+2020-03-12,North Carolina,8
+2020-03-13,North Carolina,2
+2020-03-14,North Carolina,7
+2020-03-15,North Carolina,7
+2020-03-16,North Carolina,2
+2020-03-17,North Carolina,8
+2020-03-18,North Carolina,24
+2020-03-19,North Carolina,38
+2020-03-20,North Carolina,40
+2020-03-21,North Carolina,40
+2020-03-22,North Carolina,85
+2020-03-23,North Carolina,33
+2020-03-24,North Carolina,95
+2020-03-25,North Carolina,165
+2020-03-26,North Carolina,77
+2020-03-27,North Carolina,145
+2020-03-28,North Carolina,188
+2020-03-29,North Carolina,194
+2020-03-30,North Carolina,137
+2020-03-31,North Carolina,224
+2020-04-01,North Carolina,64
+2020-04-02,North Carolina,267
+2020-04-03,North Carolina,235
+2020-04-04,North Carolina,309
+2020-04-05,North Carolina,183
+2020-04-06,North Carolina,285
+2020-04-07,North Carolina,350
+2020-04-08,North Carolina,203
+2020-04-09,North Carolina,228
+2020-04-10,North Carolina,255
+2020-04-11,North Carolina,404
+2020-04-12,North Carolina,210
+2020-04-13,North Carolina,268
+2020-04-14,North Carolina,204
+2020-04-15,North Carolina,131
+2020-04-16,North Carolina,340
+2020-04-17,North Carolina,396
+2020-04-18,North Carolina,281
+2020-04-19,North Carolina,353
+2020-04-20,North Carolina,271
+2020-04-21,North Carolina,187
+2020-04-22,North Carolina,269
+2020-04-23,North Carolina,388
+2020-04-24,North Carolina,444
+2020-04-25,North Carolina,496
+2020-04-26,North Carolina,282
+2020-04-27,North Carolina,205
+2020-04-28,North Carolina,533
+2020-04-29,North Carolina,379
+2020-04-30,North Carolina,560
+2020-05-01,North Carolina,415
+2020-05-02,North Carolina,592
+2020-05-03,North Carolina,154
+2020-05-04,North Carolina,203
+2020-05-05,North Carolina,412
+2020-05-06,North Carolina,500
+2020-05-07,North Carolina,648
+2020-05-08,North Carolina,448
+2020-05-09,North Carolina,508
+2020-05-10,North Carolina,396
+2020-05-11,North Carolina,286
+2020-05-12,North Carolina,333
+2020-05-13,North Carolina,448
+2020-05-14,North Carolina,743
+2020-05-15,North Carolina,597
+2020-05-16,North Carolina,819
+2020-05-17,North Carolina,528
+2020-05-18,North Carolina,584
+2020-05-19,North Carolina,641
+2020-05-20,North Carolina,459
+2020-05-21,North Carolina,713
+2020-05-22,North Carolina,727
+2020-05-23,North Carolina,1070
+2020-05-24,North Carolina,500
+2020-05-25,North Carolina,766
+2020-05-26,North Carolina,191
+2020-05-27,North Carolina,599
+2020-05-28,North Carolina,829
+2020-05-29,North Carolina,1119
+2020-05-30,North Carolina,1026
+2020-05-31,North Carolina,925
+2020-06-01,North Carolina,682
+2020-06-02,North Carolina,684
+2020-06-03,North Carolina,961
+2020-06-04,North Carolina,1263
+2020-06-05,North Carolina,1141
+2020-06-06,North Carolina,1392
+2020-06-07,North Carolina,854
+2020-06-08,North Carolina,918
+2020-06-09,North Carolina,812
+2020-06-10,North Carolina,912
+2020-06-11,North Carolina,1430
+2020-06-12,North Carolina,1732
+2020-06-13,North Carolina,1444
+2020-06-14,North Carolina,1288
+2020-06-15,North Carolina,1058
+2020-06-16,North Carolina,848
+2020-06-17,North Carolina,1037
+2020-06-18,North Carolina,1284
+2020-06-19,North Carolina,1588
+2020-06-20,North Carolina,1626
+2020-06-21,North Carolina,1214
+2020-06-22,North Carolina,986
+2020-06-23,North Carolina,986
+2020-06-24,North Carolina,1437
+2020-06-25,North Carolina,1277
+2020-06-26,North Carolina,1717
+2020-06-27,North Carolina,1452
+2020-06-28,North Carolina,1469
+2020-06-29,North Carolina,1514
+2020-06-30,North Carolina,1372
+2020-07-01,North Carolina,1751
+2020-07-02,North Carolina,1697
+2020-07-03,North Carolina,1939
+2020-07-04,North Carolina,1284
+2020-07-05,North Carolina,1361
+2020-07-06,North Carolina,1837
+2020-07-07,North Carolina,1255
+2020-07-08,North Carolina,1473
+2020-07-09,North Carolina,1903
+2020-07-10,North Carolina,2173
+2020-07-11,North Carolina,2259
+2020-07-12,North Carolina,1835
+2020-07-13,North Carolina,1822
+2020-07-14,North Carolina,2114
+2020-07-15,North Carolina,1806
+2020-07-16,North Carolina,2084
+2020-07-17,North Carolina,1976
+2020-07-18,North Carolina,2434
+2020-07-19,North Carolina,1774
+2020-07-20,North Carolina,1335
+2020-07-21,North Carolina,1871
+2020-07-22,North Carolina,2091
+2020-07-23,North Carolina,1912
+2020-07-24,North Carolina,2156
+2020-07-25,North Carolina,2076
+2020-07-26,North Carolina,1520
+2020-07-27,North Carolina,1810
+2020-07-28,North Carolina,1688
+2020-07-29,North Carolina,1727
+2020-07-30,North Carolina,2364
+2020-07-31,North Carolina,1979
+2020-08-01,North Carolina,1645
+2020-08-02,North Carolina,1266
+2020-08-03,North Carolina,1467
+2020-08-04,North Carolina,1488
+2020-08-05,North Carolina,1218
+2020-08-06,North Carolina,2024
+2020-08-07,North Carolina,1555
+2020-08-08,North Carolina,1882
+2020-08-09,North Carolina,1335
+2020-08-10,North Carolina,756
+2020-08-11,North Carolina,1068
+2020-08-12,North Carolina,1339
+2020-08-13,North Carolina,1593
+2020-08-14,North Carolina,1538
+2020-08-15,North Carolina,1412
+2020-08-16,North Carolina,1155
+2020-08-17,North Carolina,831
+2020-08-18,North Carolina,1199
+2020-08-19,North Carolina,1350
+2020-08-20,North Carolina,1931
+2020-08-21,North Carolina,1922
+2020-08-22,North Carolina,1622
+2020-08-23,North Carolina,1424
+2020-08-24,North Carolina,1537
+2020-08-25,North Carolina,1258
+2020-08-26,North Carolina,1523
+2020-08-27,North Carolina,2007
+2020-08-28,North Carolina,1439
+2020-08-29,North Carolina,2379
+2020-08-30,North Carolina,977
+2020-08-31,North Carolina,1479
+2020-09-01,North Carolina,1977
+2020-09-02,North Carolina,1174
+2020-09-03,North Carolina,1651
+2020-09-04,North Carolina,2057
+2020-09-05,North Carolina,1276
+2020-09-06,North Carolina,1017
+2020-09-07,North Carolina,1071
+2020-09-08,North Carolina,938
+2020-09-09,North Carolina,911
+2020-09-10,North Carolina,1274
+2020-09-11,North Carolina,1599
+2020-09-12,North Carolina,1371
+2020-09-13,North Carolina,1020
+2020-09-14,North Carolina,1122
+2020-09-15,North Carolina,1039
+2020-09-16,North Carolina,1314
+2020-09-17,North Carolina,1507
+2020-09-18,North Carolina,1365
+2020-09-19,North Carolina,1079
+2020-09-20,North Carolina,1227
+2020-09-21,North Carolina,1115
+2020-09-22,North Carolina,1165
+2020-09-23,North Carolina,1173
+2020-09-24,North Carolina,1805
+2020-09-25,North Carolina,5422
+2020-09-26,North Carolina,1583
+2020-09-27,North Carolina,1166
+2020-09-28,North Carolina,1090
+2020-09-29,North Carolina,887
+2020-09-30,North Carolina,1620
+2020-10-01,North Carolina,2214
+2020-10-02,North Carolina,1817
+2020-10-03,North Carolina,2014
+2020-10-04,North Carolina,592
+2020-10-05,North Carolina,2404
+2020-10-06,North Carolina,1393
+2020-10-07,North Carolina,1911
+2020-10-08,North Carolina,2389
+2020-10-09,North Carolina,2018
+2020-10-10,North Carolina,2203
+2020-10-11,North Carolina,1605
+2020-10-12,North Carolina,1495
+2020-10-13,North Carolina,1783
+2020-10-14,North Carolina,1970
+2020-10-15,North Carolina,2526
+2020-10-16,North Carolina,2694
+2020-10-17,North Carolina,1988
+2020-10-18,North Carolina,2096
+2020-10-19,North Carolina,1435
+2020-10-20,North Carolina,1607
+2020-10-21,North Carolina,1852
+2020-10-22,North Carolina,2408
+2020-10-23,North Carolina,2116
+2020-10-24,North Carolina,2905
+2020-10-25,North Carolina,1689
+2020-10-26,North Carolina,2031
+2020-10-27,North Carolina,2175
+2020-10-28,North Carolina,2232
+2020-10-29,North Carolina,2853
+2020-10-30,North Carolina,2812
+2020-10-31,North Carolina,2574
+2020-11-01,North Carolina,1901
+2020-11-02,North Carolina,1771
+2020-11-03,North Carolina,2180
+2020-11-04,North Carolina,2623
+2020-11-05,North Carolina,2930
+2020-11-06,North Carolina,2914
+2020-11-07,North Carolina,2439
+2020-11-08,North Carolina,1868
+2020-11-09,North Carolina,1674
+2020-11-10,North Carolina,2984
+2020-11-11,North Carolina,2636
+2020-11-12,North Carolina,3206
+2020-11-13,North Carolina,2567
+2020-11-14,North Carolina,3205
+2020-11-15,North Carolina,2703
+2020-11-16,North Carolina,2908
+2020-11-17,North Carolina,3223
+2020-11-18,North Carolina,3721
+2020-11-19,North Carolina,3400
+2020-11-20,North Carolina,4363
+2020-11-21,North Carolina,3053
+2020-11-22,North Carolina,3909
+2020-11-23,North Carolina,2689
+2020-11-24,North Carolina,3894
+2020-11-25,North Carolina,4536
+2020-11-26,North Carolina,46
+2020-11-27,North Carolina,7516
+2020-11-28,North Carolina,2990
+2020-11-29,North Carolina,3470
+2020-11-30,North Carolina,2844
+2020-12-01,North Carolina,3647
+2020-12-02,North Carolina,3910
+2020-12-03,North Carolina,5845
+2020-12-04,North Carolina,5795
+2020-12-05,North Carolina,4595
+2020-12-06,North Carolina,6260
+2020-12-07,North Carolina,4776
+2020-12-08,North Carolina,4724
+2020-12-09,North Carolina,7620
+2020-12-10,North Carolina,5811
+2020-12-11,North Carolina,7040
+2020-12-12,North Carolina,5334
+2020-12-13,North Carolina,6330
+2020-12-14,North Carolina,5066
+2020-12-15,North Carolina,5582
+2020-12-16,North Carolina,6325
+2020-12-17,North Carolina,5111
+2020-12-18,North Carolina,9456
+2020-12-19,North Carolina,5496
+2020-12-20,North Carolina,6184
+2020-12-21,North Carolina,4638
+2020-12-22,North Carolina,6729
+2020-12-23,North Carolina,6627
+2020-12-24,North Carolina,136
+2020-12-25,North Carolina,0
+2020-12-26,North Carolina,16719
+2020-12-27,North Carolina,2725
+2020-12-28,North Carolina,4541
+2020-12-29,North Carolina,4449
+2020-12-30,North Carolina,8681
+2020-12-31,North Carolina,5950
+2021-01-01,North Carolina,2906
+2021-01-02,North Carolina,15966
+2021-01-03,North Carolina,5318
+2021-01-04,North Carolina,6758
+2021-01-05,North Carolina,6291
+2021-01-06,North Carolina,6385
+2021-01-07,North Carolina,10614
+2021-01-08,North Carolina,9879
+2021-01-09,North Carolina,9528
+2021-01-10,North Carolina,8788
+2021-01-11,North Carolina,7842
+2021-01-12,North Carolina,5336
+2021-01-13,North Carolina,5322
+2021-01-14,North Carolina,8812
+2021-01-15,North Carolina,8892
+2021-01-16,North Carolina,8458
+2021-01-17,North Carolina,6606
+2021-01-18,North Carolina,-263
+2021-01-19,North Carolina,8465
+2021-01-20,North Carolina,8787
+2021-01-21,North Carolina,5900
+2021-01-22,North Carolina,9288
+2021-01-23,North Carolina,6352
+2021-01-24,North Carolina,5655
+2021-01-25,North Carolina,5199
+2021-01-26,North Carolina,4491
+2021-01-27,North Carolina,4898
+2021-01-28,North Carolina,6760
+2021-01-29,North Carolina,7019
+2021-01-30,North Carolina,626
+2021-01-31,North Carolina,10210
+2021-02-01,North Carolina,5200
+2021-02-02,North Carolina,3020
+2021-02-03,North Carolina,10693
+2021-02-04,North Carolina,6504
+2021-02-05,North Carolina,4941
+2021-02-06,North Carolina,4102
+2021-02-07,North Carolina,4368
+2021-02-08,North Carolina,2893
+2021-02-09,North Carolina,4056
+2021-02-10,North Carolina,3619
+2021-02-11,North Carolina,4601
+2021-02-12,North Carolina,4057
+2021-02-13,North Carolina,3539
+2021-02-14,North Carolina,2791
+2021-02-15,North Carolina,3150
+2021-02-16,North Carolina,2293
+2021-02-17,North Carolina,2947
+2021-02-18,North Carolina,3991
+2021-02-19,North Carolina,3203
+2021-02-20,North Carolina,3189
+2021-02-21,North Carolina,2080
+2021-02-22,North Carolina,2689
+2021-02-23,North Carolina,1568
+2021-02-24,North Carolina,3308
+2021-02-25,North Carolina,3434
+2021-02-26,North Carolina,2809
+2021-02-27,North Carolina,2324
+2021-02-28,North Carolina,0
+2021-03-01,North Carolina,3353
+2021-03-02,North Carolina,1776
+2021-03-03,North Carolina,2069
+2021-03-04,North Carolina,2639
+2021-03-05,North Carolina,2043
+2021-03-06,North Carolina,1762
+2021-03-07,North Carolina,0
+2021-03-08,North Carolina,2797
+2021-03-09,North Carolina,1246
+2021-03-10,North Carolina,1815
+2021-03-11,North Carolina,2083
+2021-03-12,North Carolina,1965
+2021-03-13,North Carolina,813
+2021-03-14,North Carolina,0
+2021-03-15,North Carolina,3114
+2021-03-16,North Carolina,1795
+2021-03-17,North Carolina,1687
+2021-03-18,North Carolina,2329
+2021-03-19,North Carolina,1773
+2021-03-20,North Carolina,1809
+2021-03-21,North Carolina,0
+2021-03-22,North Carolina,2908
+2021-03-23,North Carolina,1243
+2021-03-24,North Carolina,2064
+2021-03-25,North Carolina,2055
+2021-03-26,North Carolina,2105
+2021-03-27,North Carolina,0
+2021-03-28,North Carolina,0
+2021-03-29,North Carolina,5256
+2021-03-30,North Carolina,1489
+2021-03-31,North Carolina,1941
+2021-04-01,North Carolina,2018
+2021-04-02,North Carolina,0
+2021-04-03,North Carolina,0
+2021-04-04,North Carolina,91
+2021-04-05,North Carolina,6123
+2021-04-06,North Carolina,994
+2021-04-07,North Carolina,1389
+2021-04-08,North Carolina,2024
+2021-04-09,North Carolina,2276
+2021-04-10,North Carolina,0
+2021-04-11,North Carolina,99
+2021-04-12,North Carolina,5693
+2021-04-13,North Carolina,1598
+2021-04-14,North Carolina,2348
+2021-04-15,North Carolina,2332
+2021-04-16,North Carolina,2308
+2021-04-17,North Carolina,0
+2021-04-18,North Carolina,0
+2021-04-19,North Carolina,5621
+2021-04-20,North Carolina,1290
+2021-04-21,North Carolina,1792
+2021-04-22,North Carolina,2339
+2021-04-23,North Carolina,1994
+2021-04-24,North Carolina,185
+2021-04-25,North Carolina,0
+2021-04-26,North Carolina,5008
+2021-04-27,North Carolina,1634
+2021-04-28,North Carolina,1785
+2021-04-29,North Carolina,1945
+2021-04-30,North Carolina,2257
+2021-05-01,North Carolina,74
+2021-05-02,North Carolina,0
+2021-05-03,North Carolina,4179
+2021-05-04,North Carolina,1207
+2021-05-05,North Carolina,1407
+2021-05-06,North Carolina,1870
+2021-05-07,North Carolina,1861
+2021-05-08,North Carolina,161
+2021-05-09,North Carolina,0
+2021-05-10,North Carolina,3289
+2021-05-11,North Carolina,1017
+2021-05-12,North Carolina,1480
+2021-05-13,North Carolina,1353
+2021-05-14,North Carolina,1368
+2021-05-15,North Carolina,249
+2021-05-16,North Carolina,0
+2021-05-17,North Carolina,2406
+2021-05-18,North Carolina,691
+2021-05-19,North Carolina,976
+2021-05-20,North Carolina,1116
+2021-05-21,North Carolina,1082
+2021-05-22,North Carolina,126
+2021-05-23,North Carolina,0
+2021-05-24,North Carolina,2147
+2021-05-25,North Carolina,684
+2021-05-26,North Carolina,802
+2021-05-27,North Carolina,904
+2021-05-28,North Carolina,769
+2021-05-29,North Carolina,8
+2021-05-30,North Carolina,68
+2021-05-31,North Carolina,0
+2021-06-01,North Carolina,1900
+2021-06-02,North Carolina,410
+2021-06-03,North Carolina,496
+2021-06-04,North Carolina,667
+2021-06-05,North Carolina,0
+2021-06-06,North Carolina,61
+2021-06-07,North Carolina,1231
+2021-06-08,North Carolina,357
+2021-06-09,North Carolina,552
+2021-06-10,North Carolina,469
+2021-06-11,North Carolina,421
+2021-06-12,North Carolina,37
+2021-06-13,North Carolina,0
+2021-06-14,North Carolina,1136
+2021-06-15,North Carolina,326
+2021-06-16,North Carolina,350
+2021-06-17,North Carolina,392
+2021-06-18,North Carolina,192
+2021-06-19,North Carolina,29
+2021-06-20,North Carolina,0
+2021-06-21,North Carolina,724
+2021-06-22,North Carolina,337
+2021-06-23,North Carolina,461
+2021-06-24,North Carolina,442
+2021-06-25,North Carolina,396
+2021-06-26,North Carolina,3
+2021-06-27,North Carolina,8
+2021-06-28,North Carolina,850
+2021-06-29,North Carolina,236
+2021-06-30,North Carolina,306
+2021-07-01,North Carolina,285
+2021-07-02,North Carolina,396
+2021-07-03,North Carolina,54
+2021-07-04,North Carolina,0
+2021-07-05,North Carolina,0
+2021-07-06,North Carolina,1325
+2021-07-07,North Carolina,570
+2021-07-08,North Carolina,642
+2021-07-09,North Carolina,545
+2021-07-10,North Carolina,57
+2021-07-11,North Carolina,0
+2021-07-12,North Carolina,1727
+2021-07-13,North Carolina,657
+2021-07-14,North Carolina,968
+2021-07-15,North Carolina,1030
+2021-07-16,North Carolina,1030
+2021-07-17,North Carolina,116
+2021-07-18,North Carolina,0
+2021-07-19,North Carolina,2898
+2021-07-20,North Carolina,808
+2021-07-21,North Carolina,1473
+2021-07-22,North Carolina,1768
+2021-07-23,North Carolina,1655
+2021-07-24,North Carolina,0
+2021-07-25,North Carolina,0
+2021-07-26,North Carolina,5486
+2021-07-27,North Carolina,1977
+2021-07-28,North Carolina,2565
+2021-07-29,North Carolina,3327
+2021-07-30,North Carolina,3188
+2021-07-31,North Carolina,59
+2021-08-01,North Carolina,0
+2021-08-02,North Carolina,7916
+2021-08-03,North Carolina,2939
+2021-08-04,North Carolina,3362
+2021-08-05,North Carolina,4282
+2021-08-06,North Carolina,4555
+2021-08-07,North Carolina,98
+2021-08-08,North Carolina,0
+2021-08-09,North Carolina,14709
+2021-08-10,North Carolina,4227
+2021-08-11,North Carolina,4975
+2021-08-12,North Carolina,5730
+2021-08-13,North Carolina,6693
+2021-08-14,North Carolina,0
+2021-08-15,North Carolina,0
+2021-08-16,North Carolina,13855
+2021-08-17,North Carolina,4610
+2021-08-18,North Carolina,5496
+2021-08-19,North Carolina,6902
+2021-08-20,North Carolina,6651
+2021-08-21,North Carolina,107
+2021-08-22,North Carolina,0
+2021-08-23,North Carolina,15819
+2021-08-24,North Carolina,6229
+2021-08-25,North Carolina,5372
+2021-08-26,North Carolina,9257
+2021-08-27,North Carolina,8384
+2021-08-28,North Carolina,0
+2021-08-29,North Carolina,0
+2021-08-30,North Carolina,18467
+2021-08-31,North Carolina,5532
+2021-09-01,North Carolina,6997
+2021-09-02,North Carolina,7468
+2021-09-03,North Carolina,9027
+2021-09-04,North Carolina,346
+2021-09-05,North Carolina,0
+2021-09-06,North Carolina,0
+2021-09-07,North Carolina,24854
+2021-09-08,North Carolina,5061
+2021-09-09,North Carolina,6784
+2021-09-10,North Carolina,5454
+2021-09-11,North Carolina,0
+2021-09-12,North Carolina,0
+2021-09-13,North Carolina,23742
+2021-09-14,North Carolina,4997
+2021-09-15,North Carolina,7131
+2021-09-16,North Carolina,6181
+2021-09-17,North Carolina,9047
+2021-09-18,North Carolina,0
+2021-09-19,North Carolina,0
+2021-09-20,North Carolina,15999
+2021-09-21,North Carolina,4463
+2021-09-22,North Carolina,6297
+2021-09-23,North Carolina,6125
+2021-09-24,North Carolina,5719
+2021-09-25,North Carolina,0
+2021-09-26,North Carolina,0
+2021-09-27,North Carolina,13452
+2021-09-28,North Carolina,3407
+2021-09-29,North Carolina,4580
+2021-09-30,North Carolina,4943
+2021-10-01,North Carolina,4520
+2021-10-02,North Carolina,76
+2021-10-03,North Carolina,0
+2021-10-04,North Carolina,11109
+2021-10-05,North Carolina,2647
+2021-10-06,North Carolina,3582
+2021-10-07,North Carolina,3862
+2021-10-08,North Carolina,3911
+2021-10-09,North Carolina,0
+2021-10-10,North Carolina,0
+2021-10-11,North Carolina,9627
+2021-10-12,North Carolina,2304
+2021-10-13,North Carolina,3302
+2021-10-14,North Carolina,3574
+2021-10-15,North Carolina,2959
+2021-10-16,North Carolina,0
+2021-10-17,North Carolina,0
+2021-10-18,North Carolina,6960
+2021-10-19,North Carolina,1427
+2021-10-20,North Carolina,2663
+2021-10-21,North Carolina,2911
+2021-10-22,North Carolina,2675
+2021-10-23,North Carolina,33
+2021-10-24,North Carolina,0
+2021-10-25,North Carolina,5662
+2021-10-26,North Carolina,1246
+2021-10-27,North Carolina,2277
+2021-10-28,North Carolina,2577
+2021-10-29,North Carolina,2201
+2021-10-30,North Carolina,34
+2021-10-31,North Carolina,0
+2021-11-01,North Carolina,4889
+2021-11-02,North Carolina,1135
+2021-11-03,North Carolina,1545
+2021-11-04,North Carolina,2057
+2021-11-05,North Carolina,1834
+2021-11-06,North Carolina,2
+2021-11-07,North Carolina,0
+2021-11-08,North Carolina,4165
+2021-11-09,North Carolina,2221
+2021-11-10,North Carolina,2192
+2021-11-11,North Carolina,165
+2021-11-12,North Carolina,4063
+2021-11-13,North Carolina,0
+2021-11-14,North Carolina,0
+2021-11-15,North Carolina,4286
+2021-11-16,North Carolina,1787
+2021-11-17,North Carolina,2257
+2021-11-18,North Carolina,2467
+2021-11-19,North Carolina,2365
+2021-11-20,North Carolina,0
+2021-11-21,North Carolina,0
+2021-11-22,North Carolina,5428
+2021-11-23,North Carolina,1368
+2021-11-24,North Carolina,1881
+2021-11-25,North Carolina,422
+2021-11-26,North Carolina,0
+2021-11-27,North Carolina,0
+2021-11-28,North Carolina,0
+2021-11-29,North Carolina,8154
+2021-11-30,North Carolina,2033
+2021-12-01,North Carolina,961
+2021-12-02,North Carolina,3764
+2021-12-03,North Carolina,3726
+2021-12-04,North Carolina,0
+2021-12-05,North Carolina,0
+2021-12-06,North Carolina,8514
+2021-12-07,North Carolina,2178
+2021-12-08,North Carolina,3277
+2021-12-09,North Carolina,4157
+2021-12-10,North Carolina,3656
+2021-12-11,North Carolina,0
+2021-12-12,North Carolina,0
+2021-12-13,North Carolina,8779
+2021-12-14,North Carolina,2048
+2021-12-15,North Carolina,3749
+2021-12-16,North Carolina,4170
+2021-12-17,North Carolina,3985
+2021-12-18,North Carolina,94
+2021-12-19,North Carolina,0
+2021-12-20,North Carolina,10236
+2021-12-21,North Carolina,2900
+2021-12-22,North Carolina,5196
+2021-12-23,North Carolina,0
+2021-12-24,North Carolina,0
+2021-12-25,North Carolina,0
+2021-12-26,North Carolina,0
+2021-12-27,North Carolina,0
+2021-12-28,North Carolina,32389
+2021-12-29,North Carolina,9101
+2021-12-30,North Carolina,17588
+2021-12-31,North Carolina,18652
+2022-01-01,North Carolina,0
+2022-01-02,North Carolina,0
+2022-01-03,North Carolina,47202
+2022-01-04,North Carolina,10763
+2022-01-05,North Carolina,19919
+2022-01-06,North Carolina,23622
+2022-01-07,North Carolina,25587
+2022-01-08,North Carolina,305
+2022-01-09,North Carolina,0
+2022-01-10,North Carolina,73688
+2022-01-11,North Carolina,17625
+2022-01-12,North Carolina,24369
+2022-01-13,North Carolina,36765
+2022-01-14,North Carolina,34347
+2022-01-15,North Carolina,1391
+2022-01-16,North Carolina,0
+2022-01-17,North Carolina,0
+2022-01-18,North Carolina,121315
+2022-01-19,North Carolina,19471
+2022-01-20,North Carolina,25753
+2022-01-21,North Carolina,36579
+2022-01-22,North Carolina,0
+2022-01-23,North Carolina,0
+2022-01-24,North Carolina,82054
+2022-01-25,North Carolina,18482
+2022-01-26,North Carolina,20205
+2022-01-27,North Carolina,27526
+2022-01-28,North Carolina,21115
+2022-01-29,North Carolina,0
+2022-01-30,North Carolina,0
+2022-01-31,North Carolina,47719
+2022-02-01,North Carolina,9313
+2022-02-02,North Carolina,12443
+2022-02-03,North Carolina,15049
+2022-02-04,North Carolina,12293
+2022-02-05,North Carolina,0
+2022-02-06,North Carolina,0
+2022-02-07,North Carolina,24174
+2022-02-08,North Carolina,4522
+2022-02-09,North Carolina,10831
+2022-02-10,North Carolina,8859
+2022-02-11,North Carolina,7466
+2022-02-12,North Carolina,0
+2022-02-13,North Carolina,0
+2022-02-14,North Carolina,15003
+2022-02-15,North Carolina,2875
+2022-02-16,North Carolina,6094
+2022-02-17,North Carolina,5677
+2022-02-18,North Carolina,4955
+2022-02-19,North Carolina,0
+2022-02-20,North Carolina,0
+2022-02-21,North Carolina,9693
+2022-02-22,North Carolina,2400
+2022-02-23,North Carolina,3560
+2022-02-24,North Carolina,3744
+2022-02-25,North Carolina,4893
+2022-02-26,North Carolina,0
+2022-02-27,North Carolina,0
+2022-02-28,North Carolina,6186
+2022-03-01,North Carolina,1182
+2022-03-02,North Carolina,2202
+2022-03-03,North Carolina,2416
+2022-03-04,North Carolina,2693
+2022-03-05,North Carolina,0
+2022-03-06,North Carolina,0
+2022-03-07,North Carolina,4143
+2022-03-08,North Carolina,993
+2022-03-09,North Carolina,1766
+2022-03-10,North Carolina,1739
+2022-03-11,North Carolina,1915
+2022-03-12,North Carolina,0
+2022-03-13,North Carolina,0
+2022-03-14,North Carolina,3112
+2022-03-15,North Carolina,614
+2022-03-16,North Carolina,1526
+2022-03-17,North Carolina,1236
+2022-03-18,North Carolina,1861
+2022-03-19,North Carolina,0
+2022-03-20,North Carolina,0
+2022-03-21,North Carolina,2441
+2022-03-22,North Carolina,798
+2022-03-23,North Carolina,1533
+2022-03-24,North Carolina,1471
+2022-03-25,North Carolina,1239
+2022-03-26,North Carolina,0
+2022-03-27,North Carolina,0
+2022-03-28,North Carolina,2283
+2022-03-29,North Carolina,609
+2022-03-30,North Carolina,857
+2022-03-31,North Carolina,1107
+2022-04-01,North Carolina,1110
+2022-04-02,North Carolina,0
+2022-04-03,North Carolina,0
+2022-04-04,North Carolina,2052
+2022-04-05,North Carolina,526
+2022-04-06,North Carolina,807
+2022-04-07,North Carolina,0
+2022-04-08,North Carolina,175
+2022-04-09,North Carolina,0
+2022-04-10,North Carolina,0
+2022-04-11,North Carolina,129
+2022-04-12,North Carolina,113
+2022-04-13,North Carolina,4693
+2022-04-14,North Carolina,0
+2022-04-15,North Carolina,0
+2022-04-16,North Carolina,0
+2022-04-17,North Carolina,0
+2022-04-18,North Carolina,480
+2022-04-19,North Carolina,44
+2022-04-20,North Carolina,8054
+2022-04-21,North Carolina,167
+2022-04-22,North Carolina,139
+2022-04-23,North Carolina,0
+2022-04-24,North Carolina,0
+2022-04-25,North Carolina,188
+2022-04-26,North Carolina,229
+2022-04-27,North Carolina,10992
+2022-04-28,North Carolina,0
+2022-04-29,North Carolina,363
