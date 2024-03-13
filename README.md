@@ -24,6 +24,65 @@ Objectives:
 
 5. **Visualization** → Create graphs and a Dashboard that maps predicted and actual Covid cases and deaths in a given county over time. Visualize the identified spikes to facilitate further analysis.]
 
-6. **Conclusions** → Discuss the predictors contributing significantly to Covid spikes. Examine the feasibility of manipulating and tracking these features to allow healthcare decision-makers better foresight and control in the future. 
+6. **Conclusions** → Discuss the predictors contributing significantly to Covid spikes. Examine the feasibility of manipulating and tracking these features to allow healthcare decision-makers better foresight and control in the future.
 
 7. **Documentation and Reproducibility** → Document our methodology, key findings, and any limitations. Prepare a comprehensive report or presentation for healthcare professionals, decision-makers, and other stakeholders. Validate our model using additional datasets if available. Ensure that our analysis is reproducible by documenting code and workflows.
+
+**Final Dataset**
+  - Sources: Kaggle, CDC, New York Times, BEA, Google 
+  - Dimensions: 7900 rows, 51 features, 0 Missing values --> 10 states
+  - Description: Each row represents a unique state and date combination and includes relevant demographic, epidemiological, economic, and other information on the additional Covid-19 cases and deaths in that state on that day 
+  - Key Features: county, date, new cases, new deaths, gdp, personal income, vaccine info
+
+**Datasets used Throughout Process**
+
+COVID-19 Case Surveillance Public Use Data with Geography
+Source: CDC → Transitioning to New York Times as we expand our data from only 2020 to 2020-2022
+Dimensions: 38.5k rows by 109 columns
+Description: Each row represents a positive case and includes relevant information on the patient (age, race, etc.) as well as the test (location, date, etc.)
+Key Features: case month, home state and county, age, ethnicity, if the patient was hospitalized, underlying health conditions, etc.
+Notes: This data is on the month level rather than the day level, which makes it difficult to use with the rest of our data
+
+COVID-19 Vaccinations in the United States, County
+Source: CDC 
+Dimensions: 104M rows by 19 columns
+Description: Each row includes information about the vaccine status for a given county and day
+Key Features: date, county, vaccine rate per 100,000 people of different age and ethnic groups in the given jurisdiction, breakdown of which vaccines were administered, etc.
+Notes: This data is on the state level rather than the county level making it difficult to merge with county data
+United States COVID-19 Community Levels by County
+
+Source: CDC 
+Dimensions: 206k rows by 12 columns
+Description: Each row represents a county and includes relevant information on demographics and Covid-19 statistics
+Key Features: county, population, health service area population, Covid-19 community level
+Notes: This data does not include information on the demographics of each county
+
+Kaggle Dataset: Covid_by_county.csv
+Source: Kaggle 
+Dimensions: 360k rows by 6 columns
+Description: Each row represents a unique county and date combination and includes relevant information on the additional Covid-19 cases and deaths in that county on that day 
+Key Features: county, date, new cases, new deaths
+
+Annual County Resident Population Estimates by Demographic
+Source: Census.gov 
+Dimensions: 239k rows by 80 columns
+Description: Each row represents a unique county and age group in each year from 2020 to 2022 and includes detailed information on population demographics in each location
+Key Features: county, breakdown by race, gender
+
+Annual County Resident Population Estimates by Age Group
+Source: Census.gov 
+Dimensions: 12.5k rows by 96 columns
+Description: Each row represents a unique county in each year from 2020 to 2022 and includes detailed information on population in each age group
+Key Features: county, age breakdown
+
+Annual County GDP Data
+Source: Bureau of Economic Analysis
+Dimensions: 31k rows by 7 columns
+Description: Each row represents a unique county and descriptor and includes data on each given descriptor (GDP with 2017 base, GDP in current year, etc.) in each year from 2020 to 2022
+Key Features: county, year, GDP data
+
+Annual County Personal Income Data
+Source: Bureau of Economic Analysis
+Dimensions: 31k rows by 7 columns
+Description: Each row represents a unique county and descriptor (personal income, population, etc.) and includes data on each given descriptor in each year from 2020 to 2022
+Key Features: county, year, personal income data
